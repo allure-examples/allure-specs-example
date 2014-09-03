@@ -1,6 +1,7 @@
 package ru.yandex.qatools.allure.specs2
 
 import org.specs2.mutable.Specification
+
 import scala.collection.mutable
 
 class StackSpec extends Specification {
